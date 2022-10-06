@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PertevMeric
-- 👀 I’m interested in flutter/dart nowadays,
+- 👀 I’m interested in mobile application developement / any object oriented programming challanges,
 - 🌱 I’m currently learning python and django, linux system administration, flutter/dart,
 - 💞️ I’m looking to collaborate on any programming challenges!
 - 📫 How to reach me: pertevmeric@gmail.com
